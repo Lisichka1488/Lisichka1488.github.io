@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Большой город","order":1,"parentId":0,"scrollX":974,"scrollY":878},
+{"id":2,"expanded":false,"name":"Больница","order":2,"parentId":1,"scrollX":994.8,"scrollY":1378.8}
+]
